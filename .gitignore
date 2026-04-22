@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Generated files
+dataset.json
+output.json
+output.html
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
