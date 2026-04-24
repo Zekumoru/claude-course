@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.egg-info/
+*.pyc
 
 # Generated files
 dataset.json
@@ -12,3 +14,7 @@ report.md
 
 # Environments
 .env
+.venv
+
+# OS related files
+.DS_Store
